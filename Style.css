@@ -68,21 +68,25 @@ input {
 }
 
 .firstname {
+    margin-left: 2em;
   display: flex;
   flex-direction: column;
 }
 
 .lastname {
+    margin-left: 2em;
   display: flex;
   flex-direction: column;
 }
 
 .email {
+    margin-left: 2em;
   display: flex;
   flex-direction: column;
 }
 
 .password {
+    margin-left: 2em;
   display: flex;
   flex-direction: column;
 }
